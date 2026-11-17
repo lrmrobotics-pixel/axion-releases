@@ -1,0 +1,8 @@
+{
+  "version": "1.2.5",
+  "minNative": "1.2.3",
+  "notes": "Búsqueda de actualizaciones más confiable (sin el límite de GitHub). Incluye la voz arreglada y las voces naturales.",
+  "zip": "https://github.com/lrmrobotics-pixel/axion-releases/releases/download/v1.2.5/web-1.2.5.zip",
+  "apk": "https://github.com/lrmrobotics-pixel/axion-releases/releases/download/v1.2.5/LordOfEngineer-1.2.3.apk",
+  "apkName": "LordOfEngineer-1.2.3.apk"
+}
