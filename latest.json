@@ -1,8 +1,8 @@
 {
-  "version": "1.2.6",
+  "version": "1.3.0",
   "minNative": "1.2.3",
-  "notes": "Arreglo en Cálculo Relámpago: subir de nivel ya no tapa las operaciones y las pausas al fallar no te quitan tiempo.",
-  "zip": "https://github.com/lrmrobotics-pixel/axion-releases/releases/download/v1.2.6/web-1.2.6.zip",
-  "apk": "https://github.com/lrmrobotics-pixel/axion-releases/releases/download/v1.2.6/LordOfEngineer-1.2.3.apk",
+  "notes": "¡Nuevo: El Reino del Ingeniero! 6 regiones con misiones y jefes finales; cada jefe derrotado le da a Tuerca una pieza de armadura hasta ser Lord of Engineer. Nuevas lecciones: integrales, matrices y sistemas de ecuaciones. Nuevos juegos: Área Secreta y Transformador de Matrices. La Pizarra ahora resuelve sistemas de 2 ecuaciones.",
+  "zip": "https://github.com/lrmrobotics-pixel/axion-releases/releases/download/v1.3.0/web-1.3.0.zip",
+  "apk": "https://github.com/lrmrobotics-pixel/axion-releases/releases/download/v1.3.0/LordOfEngineer-1.2.3.apk",
   "apkName": "LordOfEngineer-1.2.3.apk"
 }
