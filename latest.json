@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "minNative": "1.2.3",
-  "notes": "¡Nuevo: El Reino del Ingeniero! 6 regiones con misiones y jefes finales; cada jefe derrotado le da a Tuerca una pieza de armadura hasta ser Lord of Engineer. Nuevas lecciones: integrales, matrices y sistemas de ecuaciones. Nuevos juegos: Área Secreta y Transformador de Matrices. La Pizarra ahora resuelve sistemas de 2 ecuaciones.",
-  "zip": "https://github.com/lrmrobotics-pixel/axion-releases/releases/download/v1.3.0/web-1.3.0.zip",
-  "apk": "https://github.com/lrmrobotics-pixel/axion-releases/releases/download/v1.3.0/LordOfEngineer-1.2.3.apk",
+  "notes": "Las operaciones ahora se ven como en un libro: fracciones apiladas, exponentes arriba, raíces con barra y ×. Vista previa al escribir cálculos. La Pizarra respeta el orden: paréntesis, potencias, × ÷, + −. Al descargarse una actualización puedes aplicarla al instante.",
+  "zip": "https://github.com/lrmrobotics-pixel/axion-releases/releases/download/v1.3.1/web-1.3.1.zip",
+  "apk": "https://github.com/lrmrobotics-pixel/axion-releases/releases/download/v1.3.1/LordOfEngineer-1.2.3.apk",
   "apkName": "LordOfEngineer-1.2.3.apk"
 }
